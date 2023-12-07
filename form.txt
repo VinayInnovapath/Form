@@ -1,0 +1,20 @@
+mongoose -  manipulate the documents of the collection of the MongoDB database.
+
+express - Express provides methods to specify what function is called for a particular 
+HTTP verb ( GET , POST , SET , etc.)
+
+body-parser = parsing the incoming request bodies in a middleware before you handle it.
+
+middleware - software that acts as a bridge or intermediary between different applications, 
+systems, or components within a computer network
+ It allows different applications or software components to exchange data and requests
+
+cors -  Cross-Origin Resource Sharing in Node. js is a mechanism by which a front-end client 
+can make requests for resources to an external back-end server
+
+schema -   a schema is like a blueprint or a plan that describes how data is organized
+and what it looks like in a database.
+
+endpoint - a endpoint is like a blueprint or a plan that    
+specific URL (Uniform Resource Locator) or URI (Uniform Resource Identifier) that is accessed to
+ perform a particular function or obtain specific information
